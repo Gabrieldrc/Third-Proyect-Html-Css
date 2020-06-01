@@ -101,4 +101,25 @@ table {
     padding: 20px 40px 20px 40px;
     margin: 0px;
 }
+
+footer .center {
+    height: 200px;
+    text-align: center;
+}
+
+footer .center h2{
+    margin: 40px auto;
+}
+
+footer .center h5{
+    margin: 30px auto;
+}
+
+footer {
+    margin-top: 70px;
+}
+.copyright {
+    text-align: left;
+    margin-left: 20px;
+}
 /* ============================================================== */
